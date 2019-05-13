@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './TicTacToeApp';
+import App from './components/TicTacToe/TicTacToeApp';
 
 it('renders without crashing', () => {
   const div = document.createElement('div');

@@ -1,6 +1,6 @@
 import React from 'react';
-import './App.css';
-import BoilCalcultor from './components/BoilCalculator/BoilCalculator'
+import '../../App.css';
+import BoilCalcultor from './BoilCalculator'
 
 function BoilCalApp() {
   return (
